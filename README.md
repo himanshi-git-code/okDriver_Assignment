@@ -22,6 +22,7 @@ A **continuous DVR-style History Playback** feature for the okDriver Smart Dashc
 
 ## Tech Stack
 
-- **Next.js 14** 
-- **TypeScript**
+- **Next.js 14**  — React framework
+- **React 18** — UI library
+- **TypeScript**  — type-safe JavaScript
 - **hls.js** — HLS video streaming
