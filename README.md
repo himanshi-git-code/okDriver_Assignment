@@ -22,7 +22,6 @@ A **continuous DVR-style History Playback** feature for the okDriver Smart Dashc
 
 ## Tech Stack
 
-- **Next.js 14** (App Router)
+- **Next.js 14** 
 - **TypeScript**
 - **hls.js** — HLS video streaming
-- **IBM Plex Sans / Mono** — Matching okDriver's font stack
