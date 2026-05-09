@@ -11,6 +11,32 @@ A **continuous DVR-style History Playback** feature for the okDriver Smart Dashc
 - ✅ **Camera Filter** — View Forward, Inward, or Both cameras at once.
 - ✅ **Timeline Seek** — Click anywhere on the timeline to jump to that moment.
 
+## Setup Instructions
+
+### Requirements
+- Node.js v18+ — download from https://nodejs.org
+
+### Steps to Run
+
+1. Install dependencies
+```bash
+npm install next@13.4.0
+npm install
+```
+
+2. Add demo videos
+- Put your dashcam `.mp4` files inside `public/videos/` folder
+- Update filenames in `src/lib/mockData.ts`
+
+3. Start the app
+```bash
+npm run dev
+```
+
+5. Open in browser
+http://localhost:3000
+
+6. Click **Search** button to load clips, then click on timeline or any clip to play.
 
 ## How It Works
 
