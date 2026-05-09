@@ -28,7 +28,7 @@ npm install
 - Put your dashcam `.mp4` files inside `public/videos/` folder
 - Update filenames in `src/lib/mockData.ts`
 
-3. Start the app
+3. Start the web app
 ```bash
 npm run dev
 ```
